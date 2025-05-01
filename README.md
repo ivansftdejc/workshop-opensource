@@ -19,7 +19,7 @@ Capacitar iniciantes no uso prático do Git e GitHub, abordando:
 
 ## Público-alvo
 
-Desenvolvedores iniciantes e estudantes interessados em contribuir com software livre.
+Desenvolvedores iniciantes e estudantes interessados em contribuir e aprender com software livre.
 
 ## Como participar
 
